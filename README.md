@@ -11,6 +11,14 @@
 
 </div>
 </details>
+<details>
+<summary><strong>4장 클래스와 인터페이스</strong></summary>
+<div markdown="1">
+
+- [Item 17. 변경 가능성을 최소화하라.](https://github.com/sieunp06/Books/blob/main/Effective%20Java/4%EC%9E%A5%20%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4/Item%2017%20%EB%B3%80%EA%B2%BD%20%EA%B0%80%EB%8A%A5%EC%84%B1%EC%9D%84%20%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EB%9D%BC.md)
+
+</div>
+</details>
 
 ### 📔 객체지향의 사실과 오해
 - [01 협력하는 객체들의 공동체](https://github.com/sieunp06/Books/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4/01%20%ED%98%91%EB%A0%A5%ED%95%98%EB%8A%94%20%EA%B0%9D%EC%B2%B4%EB%93%A4%EC%9D%98%20%EA%B3%B5%EB%8F%99%EC%B2%B4.md)
