@@ -36,6 +36,7 @@
 <div markdown="1">
 
 - [2.1 네트워크 기초](https://github.com/sieunp06/Books/blob/main/%EB%A9%B4%EC%A0%91%EC%9D%84%20%EC%9C%84%ED%95%9C%20CS%20%EC%A0%84%EA%B3%B5%EC%A7%80%EC%8B%9D%EB%85%B8%ED%8A%B8/2%EC%9E%A5%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/2-1%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88.md)
+- [2.2 TCP/IP 4계층 모델](https://github.com/sieunp06/Books/blob/main/%EB%A9%B4%EC%A0%91%EC%9D%84%20%EC%9C%84%ED%95%9C%20CS%20%EC%A0%84%EA%B3%B5%EC%A7%80%EC%8B%9D%EB%85%B8%ED%8A%B8/2%EC%9E%A5%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/2-2%20TCP%20IP%204%EA%B3%84%EC%B8%B5%20%EB%AA%A8%EB%8D%B8.md)
 
 </div>
 </details>
