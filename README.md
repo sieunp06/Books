@@ -24,6 +24,17 @@
 </div>
 </details>
 
+### 📕 모던 자바 인 액션
+<details>
+<summary><strong>PART 1 기초</strong></summary>
+<div markdown="1">
+
+- [CHAPTER 1 자바 8, 9, 10, 11: 무슨 일이 일어나고 있는가?](https://github.com/sieunp06/Books/blob/main/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%20%EC%9D%B8%20%EC%95%A1%EC%85%98/PART%201%20%EA%B8%B0%EC%B4%88/CHAPTER%201%20%EC%9E%90%EB%B0%94%208%209%2010%2011%20-%20%EB%AC%B4%EC%8A%A8%20%EC%9D%BC%EC%9D%B4%20%EC%9D%BC%EC%96%B4%EB%82%98%EA%B3%A0%20%EC%9E%88%EB%8A%94%EA%B0%80.md)
+- [CHAPTER 2 동작 파라미터화 코드 전달하기](https://github.com/sieunp06/Books/blob/main/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%20%EC%9D%B8%20%EC%95%A1%EC%85%98/PART%201%20%EA%B8%B0%EC%B4%88/CHAPTER%202%20%EB%8F%99%EC%9E%91%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%ED%99%94%20%EC%BD%94%EB%93%9C%20%EC%A0%84%EB%8B%AC%ED%95%98%EA%B8%B0.md)
+
+</div>
+</details>
+
 ### 📔 객체지향의 사실과 오해
 - [01 협력하는 객체들의 공동체](https://github.com/sieunp06/Books/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4/01%20%ED%98%91%EB%A0%A5%ED%95%98%EB%8A%94%20%EA%B0%9D%EC%B2%B4%EB%93%A4%EC%9D%98%20%EA%B3%B5%EB%8F%99%EC%B2%B4.md)
 - [02 이상한 나라의 객체](https://github.com/sieunp06/Books/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4/02%20%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EA%B0%9D%EC%B2%B4.md)
